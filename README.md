@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋🏻
 
-<!--
-**xbinner18/xbinner18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![telegram badge](https://img.shields.io/badge/Xbinner-red?style=flat&logo=telegram)](https://t.me/xbinner69)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xbinner18)
+
+---
+### About me;)
+
+- 🔭 `I’m currently playing with py|go|php.`
+- 🕵️ `I’m a binner.`
+- 💳 `Some of my old bins` [![telegram badge](https://img.shields.io/badge/tgchannel-black?style=flat&logo=Telegram)](https://t.me/bin_verse/9156)
+---
+### Status
+![Git Stats](https://github-readme-stats.vercel.app/api?username=xbinner18&theme=tokyonight&show_icons=true)
